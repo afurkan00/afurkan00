@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖İstanbul Bilgi Üniversitesi Mekatronik Mühendisliği Bölümü Öğrencisiyim.<br>💬YetGen IT içerisinde Lider olarak görev yapmaktayım.<br>🔭 Makine öğrenmesi & Yazılım alanlarında kendimi geliştirmeye çalışıyorum.<br>
+.📖 I am a student in the Mechatronics Engineering Department at Istanbul Bilgi University.<br>💬 I serve as a leader within YetGen IT.<br>🔭 I am working on improving myself in the fields of machine learning and software.<br>
 
 
 ## 🌐 Socials:
